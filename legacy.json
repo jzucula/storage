@@ -15,7 +15,7 @@
       "invalidCredentialsDescription": "Please confirm that the credentials provided are correct.",
       "orgIdNotFoundForAppId": "Error: the given Amplitude App ID does not belong to the given Amplitude Org ID",
       "orgIdNotFoundForAppIdDescription": "Please confirm that the app and org IDs are correct.",
-      "success": "Success!",
+      "success": "Success! ✅",
       "successDescription": "Amplitude has successfully connected to your Azure account."
     }
   },
