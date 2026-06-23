@@ -1,0 +1,12 @@
+CAT Tool Overview
+
+The Smartling CAT (computer-aided translation) Tool is the environment in which a Translator, Reviewer or Editor, translates, reviews, edits, and submits translations as a Translation Resource, Translation Resource Manager, or Agency Account Owner user.
+
+Account Owners and Project Managers can also access the CAT Tool, however as these are not translation user roles, strings are locked by default. To unlock the strings, click the padlock icon on the shortcuts bar.
+
+Depending on your user role and the method in which you access the CAT Tool, the CAT Tool experience can have varied results. See Accessing the CAT Tool for more information.
+
+Once you enter the CAT Tool, a new tab opens in your browser.
+
+Let's explore the navigation of the CAT Tool, with details of each feature.
+
